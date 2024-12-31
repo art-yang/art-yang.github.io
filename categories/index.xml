@@ -15,6 +15,14 @@
         <guid>https://art-yang.cc/categories/pet/</guid>
         <description>&lt;img src="https://art-yang.cc/categories/pet/pet.jpg" alt="Featured image of post 寵物日誌" /&gt;</description>
         </item>
+        <item>
+        <title>學習紀錄</title>
+        <link>https://art-yang.cc/categories/learning/</link>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://art-yang.cc/categories/learning/</guid>
+        <description>&lt;img src="https://art-yang.cc/categories/learning/learning.jpg" alt="Featured image of post 學習紀錄" /&gt;</description>
+        </item>
         
     </channel>
 </rss>

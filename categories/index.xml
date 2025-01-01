@@ -23,6 +23,14 @@
         <guid>https://art-yang.cc/categories/learning/</guid>
         <description>&lt;img src="https://art-yang.cc/categories/learning/learning.jpg" alt="Featured image of post 學習紀錄" /&gt;</description>
         </item>
+        <item>
+        <title>洋溢生活</title>
+        <link>https://art-yang.cc/categories/life/</link>
+        <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://art-yang.cc/categories/life/</guid>
+        <description>&lt;img src="https://art-yang.cc/categories/life/life.jpg" alt="Featured image of post 洋溢生活" /&gt;</description>
+        </item>
         
     </channel>
 </rss>

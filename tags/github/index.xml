@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Github on 楊藝的洋溢生活</title>
+        <link>https://art-yang.cc/tags/github/</link>
+        <description>Recent content in Github on 楊藝的洋溢生活</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <copyright>楊藝的洋溢生活 | All Rights Reserved.</copyright>
+        <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://art-yang.cc/tags/github/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hahow - Github免費架站術！輕鬆打造個人品牌</title>
+        <link>https://art-yang.cc/2021/hahow-github-webite/</link>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://art-yang.cc/2021/hahow-github-webite/</guid>
+        <description>&lt;p&gt;楊藝寫部落格的時間已經超過十個年頭，從早期的Yahoo!奇摩部落格、無名小站、痞客邦&amp;hellip;等，後來網路時代的變遷出現了Facebook，改變許多人過去寫文章的習慣，使得許多部落格紛紛收掉，面臨過轉移資料的麻煩，許多文章也多不復存在，為了取得資料的擁有權，因此楊藝開始租賃Linux主機架設自己的網站。&lt;/p&gt;
+&lt;h2 id=&#34;租賃主機的後來&#34;&gt;租賃主機的後來
+&lt;/h2&gt;&lt;p&gt;一般市面上主機大概可分為虛擬主機、VPS雲端主機、實體主機&amp;hellip;等，架站者可以依照自己的用途選用適合自己的主機，不同主機在效能與租賃金額上也有所不同。&lt;/p&gt;
+&lt;h3 id=&#34;主機的差異&#34;&gt;主機的差異
+&lt;/h3&gt;&lt;h4 id=&#34;實體主機&#34;&gt;實體主機
+&lt;/h4&gt;&lt;p&gt;實體主機就是擁有一台自己的主機，無須與人共享硬體配置，因此擁有最好的效能，可自行決定作業系統、安裝的軟體、防火牆設定&amp;hellip;等，擁有最大的設定自由度，過去的實體主機多為自己購買，並自行處理各項設定，現在也可以透過租賃的方式取得，價格相對昂貴。&lt;/p&gt;
+&lt;h4 id=&#34;虛擬主機&#34;&gt;虛擬主機
+&lt;/h4&gt;&lt;p&gt;虛擬主機一般多為Linux主機搭配PHP以及MySQL資料庫，租賃廠商會提供管理介面以及FTP連線讓架站者可以方便的管理以及上傳檔案，因為使用Linux + PHP + MySQL開源軟體的搭配，相較之下有價格上的優勢。&lt;/p&gt;
+&lt;h4 id=&#34;vps雲端主機&#34;&gt;VPS雲端主機
+&lt;/h4&gt;&lt;p&gt;VPS雲端主機介於實體主機與虛擬主機之間，有這自行配置系統與軟體彈性，不過是以虛擬機的方式運行，因此能夠自行管理實體主機，對於VPS的管理也可以簡單上手。&lt;/p&gt;
+&lt;h3 id=&#34;虛擬主機的使用&#34;&gt;虛擬主機的使用
+&lt;/h3&gt;&lt;p&gt;楊藝租賃主要以虛擬主機為主，在主機架設WordPress撰寫部落格，一開始覺得滿意，但是後來WordPress經歷改版之後，楊藝現在寫部落格早已習慣使用Markdown語法撰寫，找不到順手的Morkdown Plugin也就繼續勉強用了好幾年。&lt;/p&gt;
+&lt;p&gt;由於楊藝是個軟體工程師，因此租賃虛擬主機除了架設部落格之外，還會做些Side Project，因此租賃虛擬主機提供了我許多方便，甚至資料庫都是直接連上虛擬主機的MySQL直接使用，因此即便沒用虛擬主機提供的自動安裝WordPress以及其他的站軟體也不會浪費。&lt;/p&gt;
+&lt;h2 id=&#34;課程的發現&#34;&gt;課程的發現
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://art-yang.cc/post/learning/hugo/hahow-github-webite/hahow-github-webite-img01.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Image&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;前天查看Hahow看到&lt;a class=&#34;link&#34; href=&#34;https://hahow.in/@pk74323jacky&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;古君葳&lt;/a&gt;老師開設的「&lt;a class=&#34;link&#34; href=&#34;https://hahow.in/courses/5de8fec16117240026540b9c/discussions&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github 免費架站術！輕鬆打造個人品牌&lt;/a&gt;」內容主要是使用&lt;a class=&#34;link&#34; href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt; + &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt;的方式簡易快速的假設網站深感興趣，一整晚沒睡的邊看邊實作，學習完了整套課程，照著老師的步調實作，一定可以實作出來，不過如果要自己的網站更加豐富，就學習些HTML、CSS，甚至是JavaScript才可以做出更加動態的網頁效果。&lt;/p&gt;
+&lt;h2 id=&#34;網站建置完成的後續&#34;&gt;網站建置完成的後續
+&lt;/h2&gt;&lt;p&gt;基於Hugo建置的網站已經架設完畢了，接下來楊藝得來好好整理過去的文章，陸續將的過去的文章也得汰舊換新，往後楊藝就在這裡與各位分享生活點滴。&lt;/p&gt;
+&lt;h2 id=&#34;相關網站&#34;&gt;相關網站
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://hahow.in/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hahow 好學校&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>楊藝的洋溢生活 | All Rights Reserved.</copyright>
-        <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://art-yang.cc/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://art-yang.cc/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>洋溢生活</title>
+        <link>https://art-yang.cc/categories/life/</link>
+        <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://art-yang.cc/categories/life/</guid>
+        <description>&lt;img src="https://art-yang.cc/categories/life/life.jpg" alt="Featured image of post 洋溢生活" /&gt;</description>
+        </item>
+        <item>
         <title>工作五四三</title>
         <link>https://art-yang.cc/categories/work/</link>
         <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
@@ -30,14 +38,6 @@
         
         <guid>https://art-yang.cc/categories/learning/</guid>
         <description>&lt;img src="https://art-yang.cc/categories/learning/learning.jpg" alt="Featured image of post 學習紀錄" /&gt;</description>
-        </item>
-        <item>
-        <title>洋溢生活</title>
-        <link>https://art-yang.cc/categories/life/</link>
-        <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://art-yang.cc/categories/life/</guid>
-        <description>&lt;img src="https://art-yang.cc/categories/life/life.jpg" alt="Featured image of post 洋溢生活" /&gt;</description>
         </item>
         
     </channel>

@@ -7,7 +7,23 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>楊藝的洋溢生活 | All Rights Reserved.</copyright>
-        <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://art-yang.cc/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://art-yang.cc/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Life</title>
+        <link>https://art-yang.cc/tags/life/</link>
+        <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://art-yang.cc/tags/life/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Study</title>
+        <link>https://art-yang.cc/tags/study/</link>
+        <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://art-yang.cc/tags/study/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Contract</title>
         <link>https://art-yang.cc/tags/contract/</link>
         <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
@@ -45,14 +61,6 @@
         <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
         
         <guid>https://art-yang.cc/tags/hugo/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Life</title>
-        <link>https://art-yang.cc/tags/life/</link>
-        <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://art-yang.cc/tags/life/</guid>
         <description></description>
         </item>
         
